@@ -1,8 +1,8 @@
 ## Hi there, nice to see me 👋 (just a joke 😂)
 
-    I’m juan (@zucarion7) and I like to develop and automate solutions through code.
-
-    🌱 I’m currently learning about web scraping with Puppeteer
+> I’m juan (@zucarion7). <br>
+I love to develop, automate solutions through code and learn about new technologies. <br>
+🌱 I’m currently learning about web scraping with Puppeteer
 
 <!--
     Portafolio...

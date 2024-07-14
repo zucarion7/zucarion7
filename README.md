@@ -1,6 +1,6 @@
 ## Hi there, nice to see me 👋 (just a joke 😂)
 
-![matrix_blue](https://github.com/user-attachments/assets/d0d2b558-8f56-4086-826d-fd09d3b007c0)
+![matrix_blue_](https://github.com/user-attachments/assets/35cc65ad-78a6-463d-9167-83a5877dc626)
 
 > I’m juan (@zucarion7). <br>
 I love to develop, automate solutions through code and learn about new technologies. <br>
